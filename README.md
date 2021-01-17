@@ -1,46 +1,35 @@
-# Getting Started with Create React App
+# Code Challenge.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+:happy: Hello Recruiter!
 
-## Available Scripts
+This is the repository for the request code challenge.
 
-In the project directory, you can run:
+:information_source:It was developed using React, TypeScript and Styled Components.
 
-### `yarn start`
+:gear: The reasoning behind choosing React is because it's the required Framework for the job. When it comes to TypeScript, it's an amazing addition to front-end applications in order to improve quality; therefore I use it constantly. 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+:rainbow: Lastly, Styled Components make it easier for developers to make our styles respond to the component props, among many other features. That's also a tool that I've been using for quite some time now.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+:hammer_and_pick: **In case you wanna see the project working right away, here's a <a href="https://andersonsouza.dev/code-challenge" target="_blank">Live Demo</a>. **
 
-### `yarn test`
+## Installation
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+First checkout the repository in your computer. The go inside the created folder and install the dependencies:
 
-### `yarn build`
+`yarn install`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Now just start it:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+`yarn start`
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+The application will be opened in a new window in your browser.
 
-### `yarn eject`
+## Contact
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+This is my e-mail: andersonoliveira_souza@outlook.com.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+I'm grateful for the opportunity and look forward for your feedback. 
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Best regards.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+ 
