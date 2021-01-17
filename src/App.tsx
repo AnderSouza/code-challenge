@@ -38,10 +38,10 @@ function App() {
             <Bar />
             <Content>
               <Switch>
-                <Route path="/" exact component={Dashboard} />
                 <Route path="/patients" component={Patients} />
                 <Route path="/tests" component={Tests} />
                 <Route path="/config" component={Config} />
+                <Route path="/" component={Dashboard} />
               </Switch>
             </Content>
           </Main>
