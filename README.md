@@ -2,7 +2,7 @@
 
 :grinning: Hello Recruiter!
 
-This is the repository for the request code challenge.
+This is the repository for the requested code challenge.
 
 :information_source: It was developed using React, TypeScript and Styled Components.
 
@@ -14,11 +14,11 @@ This is the repository for the request code challenge.
 
 ## Installation
 
-First checkout the repository in your computer. The go inside the created folder and install the dependencies:
+First checkout the repository in your computer. Then go inside the created folder and install the dependencies:
 
 `yarn install`
 
-Now just start it:
+Just start it:
 
 `yarn start`
 
